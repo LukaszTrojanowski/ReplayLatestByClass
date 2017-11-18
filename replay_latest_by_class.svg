@@ -196,21 +196,21 @@
      style="font-size:20px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;"
      xml:space="preserve">B2</text>
 </g>
-</g></g><g id="source_b" transform="rotate(0 250.0 290.0) translate(250.0,290.0)">
+</g></g><g id="source_b" transform="rotate(0 350.0 290.0) translate(350.0,290.0)">
   <path 
      style="fill:none;fill-rule:evenodd;stroke:#003080;stroke-width:2px;marker-end:url(#Arrow1Lend)"
-     d="m 0,0 497.0,0"
+     d="m 0,0 397.0,0"
      inkscape:connector-curvature="0" />
 
 <g style="filter:url(#filter3443)">
   <circle
      r="22"
      cy="0"
-     cx="125.0"
+     cx="25"
      style="opacity:1;fill:#ffaacc;fill-opacity:1;stroke:#003080;stroke-width:1px;" />
   <text
      y="7"
-     x="125.0"
+     x="25"
      style="font-size:20px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;"
      xml:space="preserve">A2</text>
 </g>
@@ -219,11 +219,11 @@
   <circle
      r="22"
      cy="0"
-     cx="225.0"
+     cx="125.0"
      style="opacity:1;fill:#48b3cd;fill-opacity:1;stroke:#003080;stroke-width:1px;" />
   <text
      y="7"
-     x="225.0"
+     x="125.0"
      style="font-size:20px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;"
      xml:space="preserve">B1</text>
 </g>
@@ -232,11 +232,11 @@
   <circle
      r="22"
      cy="0"
-     cx="325.0"
+     cx="225.0"
      style="opacity:1;fill:#e5ff7c;fill-opacity:1;stroke:#003080;stroke-width:1px;" />
   <text
      y="7"
-     x="325.0"
+     x="225.0"
      style="font-size:20px;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;"
      xml:space="preserve">B2</text>
 </g>

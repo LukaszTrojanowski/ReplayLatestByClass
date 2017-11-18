@@ -10,6 +10,24 @@ The version of replay of this transformer replays the latest elements of a certa
 Apply with `compose` to an upstream `Observable` or `Flowable`.
 This operator will *not* unsubscribe from upstream opeartors even if the number of subscirptions drops to 0.
 
+Download
+--------
+
+Add the following code in your root build.gradle at the end of repositories:
+
+```groovy
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+Add the dependency
+```groovy
+compile "com.github.ltrojanowski:ReplayLatestByClass:master-SNAPSHOT"
+```
+
 License
 -------
 

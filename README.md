@@ -5,7 +5,7 @@ ReplayLatestByClass
 
 The version of replay of this transformer replays the latest elements of a certain class type to each new subscriber. The order of the elements emitted at subscribtion is not preserved.
 
-
+![marble diagram](replay_latest_by_class.svg)
 
 Apply with `compose` to an upstream `Observable` or `Flowable`.
 This operator will *not* unsubscribe from upstream opeartors even if the number of subscirptions drops to 0.
